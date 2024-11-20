@@ -1,0 +1,4 @@
+//insertion : --it depends 
+//removal :-- it depends
+//searching :-- o(n)
+//access :-- o(1)

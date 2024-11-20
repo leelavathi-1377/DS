@@ -1,0 +1,8 @@
+This pattern uses sets and objects to collect values/frequency of values
+This can always avoid the need for nested loops o(n^2) operations with arrays and strings
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+/*
+for objects 
+
+insertion :--- o(1)
+removal :-- o(1)
+searching :-- o(n)
+access :-- o(1)
+
+Object.keys() :-- o(n)
+Object.values() : --- o(n)
+Object.entries() : --- o(n) 
+object.hasOwnProperty() :--- o(1)
